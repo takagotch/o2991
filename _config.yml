@@ -3,3 +3,5 @@ description: Takagotch template for Jekyll
 paginate: 10
 baseurl: '/Takagotch-Jekyll-Theme'
 
+
+theme: jekyll-theme-slate
